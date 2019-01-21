@@ -1,0 +1,39 @@
+#Ryba {
+    display:flex; flex-direction: row;
+    text-align: center;
+}
+
+#Hry {
+    background-color: white;
+
+}
+
+#stred {
+    text-align: center;
+}
+
+img {
+    width: 60%;
+    height: 80%;
+}
+
+p {
+    text-align: center;
+    color: rgb(7, 5, 3)
+}
+
+h1 {
+    color: rgb(7, 5, 2)
+}
+
+#flex {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+div:hover {
+    transform: rotateX(94deg);
+    background-color: red
+}
